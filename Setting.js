@@ -1,7 +1,7 @@
 5const fs = require('fs-extra')
 //═══════[Required Variables]════════\\
-global.owner = process.env.OWNER_NUMBER || '27629015564' ;
-global.mongodb = process.env.MONGODB_URI || "" ; 
+global.owner = process.env.OWNER_NUMBER || '2348039607375' ;
+global.mongodb = process.env.MONGODB_URI || "27629015564" ; 
 global.port=5000  ;
 global.audio = '' ; 
 global.video = '' ;
